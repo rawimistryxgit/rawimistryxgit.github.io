@@ -53,3 +53,9 @@ h1 {
 a {
   color: var(--accent);
 }
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
