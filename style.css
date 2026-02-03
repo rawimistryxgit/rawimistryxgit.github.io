@@ -16,8 +16,8 @@ body {
 
 header {
   border-bottom: 1px solid var(--border);
-  padding: 40px 0 24px;
-  margin-bottom: 20px;
+  padding: 20px 0 12px;
+  margin-bottom: 40px;
 }
 
 .site-title {
