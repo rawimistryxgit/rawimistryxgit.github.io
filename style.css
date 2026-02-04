@@ -7,19 +7,19 @@
 
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  max-width: 820px;
-  margin: 0 auto;
-  padding: 0 20px 80px;
+  margin: 0;
+  padding: 0;
   line-height: 1.7;
-  color: var(--text);
+  color: #111;
 }
 
+
 header {
-  background: #fff2e6; /* light orange */
+  background: #fff2e6;
   border-bottom: 1px solid #f0d8c2;
-  padding: 20px 0 12px;
-  margin-bottom: 40px;
+  padding: 14px 0;
 }
+
 
 .site-title a {
   color: #000;
@@ -48,3 +48,8 @@ a {
   margin: 0 auto;
 }
 
+.page {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 0 20px 80px;
+}
