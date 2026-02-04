@@ -73,3 +73,11 @@ nav a:hover {
   margin: 0 auto;
   padding: 40px 20px 80px;
 }
+
+header,
+header a,
+header h1,
+header h2,
+header nav a {
+  color: #ffffff !important;
+}
