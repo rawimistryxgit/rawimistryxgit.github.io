@@ -17,9 +17,23 @@ body {
 
 /* FULL-WIDTH HEADER */
 header {
-background-color: #fafafa;
+  background-color: #111111;
   border-bottom: 1px solid var(--border);
 }
+
+header a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+header a:hover {
+  opacity: 0.8;
+}
+
+.site-title a {
+  color: #ffffff;
+}
+
 
 .header-inner {
   max-width: 820px;
