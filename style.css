@@ -15,36 +15,25 @@ body {
 }
 
 header {
-  border-bottom: 1px solid var(--border);
+  background: #fff2e6; /* light orange */
+  border-bottom: 1px solid #f0d8c2;
   padding: 20px 0 12px;
   margin-bottom: 40px;
 }
 
-.site-title {
-  font-size: 1.8rem;
-  font-weight: 700;
-  margin: 0;
-}
-
 .site-title a {
-  text-decoration: none;
-  color: var(--text);
-}
-
-nav {
-  margin-top: 12px;
+  color: #000;
 }
 
 nav a {
-  margin-right: 20px;
-  text-decoration: none;
-  font-weight: 500;
-  color: var(--muted);
+  color: #000;
 }
 
 nav a:hover {
-  color: var(--accent);
+  color: #000;
+  text-decoration: underline;
 }
+
 
 h1 {
   margin-top: 40px;
